@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# unpacked data
+mnist-dataset/mnist.pkl
